@@ -4,8 +4,13 @@
 
 [Full Changelog](https://github.com/AMutaa/auto_changelog_demo/compare/0.0.1...HEAD)
 
+**Fixed bugs:**
+
+- \[PDS-803\]: fixed bug [\#5](https://github.com/AMutaa/auto_changelog_demo/pull/5) ([AMutaa](https://github.com/AMutaa))
+
 **Merged pull requests:**
 
+- update [\#4](https://github.com/AMutaa/auto_changelog_demo/pull/4) ([AMutaa](https://github.com/AMutaa))
 - Feat/pds 802 new release [\#3](https://github.com/AMutaa/auto_changelog_demo/pull/3) ([AMutaa](https://github.com/AMutaa))
 - update [\#2](https://github.com/AMutaa/auto_changelog_demo/pull/2) ([AMutaa](https://github.com/AMutaa))
 
