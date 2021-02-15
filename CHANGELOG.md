@@ -1,5 +1,14 @@
 # Changelog
 
+## [Unreleased](https://github.com/AMutaa/auto_changelog_demo/tree/HEAD)
+
+[Full Changelog](https://github.com/AMutaa/auto_changelog_demo/compare/0.0.1...HEAD)
+
+**Merged pull requests:**
+
+- Feat/pds 802 new release [\#3](https://github.com/AMutaa/auto_changelog_demo/pull/3) ([AMutaa](https://github.com/AMutaa))
+- update [\#2](https://github.com/AMutaa/auto_changelog_demo/pull/2) ([AMutaa](https://github.com/AMutaa))
+
 ## [0.0.1](https://github.com/AMutaa/auto_changelog_demo/tree/0.0.1) (2021-02-15)
 
 [Full Changelog](https://github.com/AMutaa/auto_changelog_demo/compare/9ed9554371e517c7adab09ec914ae00df5899443...0.0.1)
