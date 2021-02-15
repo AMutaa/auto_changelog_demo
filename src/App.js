@@ -7,6 +7,7 @@ function App() {
       <h2>UPDATE PROJECT TITLE</h2>
       <h3>UPDATE PROJECT TITLE</h3>
       <h4>NEW RELEASE</h4>
+      <h4>Fix Bug</h4>
     </div>
   );
 }
